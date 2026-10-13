@@ -62,6 +62,24 @@ Imperialism II and its associated trademarks and intellectual property belong to
 
 The editor does not include the original game or its proprietary files.
 
+### Windows Security Notice
+
+**Imperialism II Savegame Editor is currently an unsigned application.**
+
+When downloading or launching the editor, Windows Defender SmartScreen may display a warning stating that the publisher cannot be verified or that Windows protected your PC.
+
+This warning may appear because the application has not been digitally signed with a trusted code-signing certificate.
+
+The editor is provided free of charge as an unofficial fan project. You can review its source code in this GitHub repository.
+
+**For your security:**
+- Download the editor only from the official GitHub Releases page.
+- Verify that the downloaded file comes from this repository.
+- Scan the downloaded file with your antivirus software before running it.
+- Only proceed past a Windows security warning if you trust the application and its source.
+
+A SmartScreen warning does not automatically indicate malicious software, but an unsigned application is not automatically safe either.
+
 ## Credits
 
 **BackRoads Gaming Studio**
